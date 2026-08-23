@@ -1,16 +1,11 @@
 rgs = {
-  # rg1 = {
-  #   name     = "dev-rg1"
-  #   location = "japaneast"
-  # }
-
-  rg2 = {
-    name     = "dev-rg2"
+  rg1 = {
+    name     = "dev-rg1"
     location = "japaneast"
   }
 
-  rg3 = {
-    name     = "dev-rg3"
+  rg2 = {
+    name     = "dev-rg2"
     location = "japaneast"
   }
 
